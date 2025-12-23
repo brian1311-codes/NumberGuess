@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ATOM\\Desktop\\project\\project_C-\\NumberGuess\\NumberGuess.csproj": {}
+    "C:\\Users\\ATOM\\Desktop\\project\\project_c-\\NumberGuess\\NumberGuess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ATOM\\Desktop\\project\\project_C-\\NumberGuess\\NumberGuess.csproj": {
+    "C:\\Users\\ATOM\\Desktop\\project\\project_c-\\NumberGuess\\NumberGuess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ATOM\\Desktop\\project\\project_C-\\NumberGuess\\NumberGuess.csproj",
+        "projectUniqueName": "C:\\Users\\ATOM\\Desktop\\project\\project_c-\\NumberGuess\\NumberGuess.csproj",
         "projectName": "NumberGuess",
-        "projectPath": "C:\\Users\\ATOM\\Desktop\\project\\project_C-\\NumberGuess\\NumberGuess.csproj",
+        "projectPath": "C:\\Users\\ATOM\\Desktop\\project\\project_c-\\NumberGuess\\NumberGuess.csproj",
         "packagesPath": "C:\\Users\\ATOM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ATOM\\Desktop\\project\\project_C-\\NumberGuess\\obj\\",
+        "outputPath": "C:\\Users\\ATOM\\Desktop\\project\\project_c-\\NumberGuess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ATOM\\AppData\\Roaming\\NuGet\\NuGet.Config"
